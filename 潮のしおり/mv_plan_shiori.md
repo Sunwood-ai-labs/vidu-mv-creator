@@ -101,9 +101,21 @@ A fair-skinned woman, Yukimura Ayano, with long, flowing silver hair and strikin
 | 4-6 | 4:33 | 6s | 見えない岸を見つめながら | **Close**. Eyes full of light. <br>`(close up) @雪村綾乃_Moonlit eyes tearing up slightly but smiling, reflecting the destination` |
 | 4-7 | 4:39 | 7s | 心を叫び渡ってゆく | **Action**. Standing tip-toe/Reaching. <br>`(medium shot) @雪村綾乃_Moonlit leaning forward over the railing, as if flying, dress flapping in wind` |
 | 4-8 | 4:46 | 6s | 波の音がページをめくる | **Trans**. Ship wake/Page turn to Classroom. <br>`(cinematic) The white wake of the ship dissolving into a white page, then revealing a wooden school desk` |
-| 4-9 | 4:52 | 8s | ここから次の物語へ | **Scene 5 Est**. Classroom. <br>`(wide shot) Old wooden classroom filled with golden morning light, @雪村綾乃_Moonlit standing at the front as a teacher` |
-| 4-10 | 5:00 | 8s | (Instrumentation/Finale) | **Medium**. Smiling at students. <br>`(medium shot) @雪村綾乃_Moonlit smiling gently at the camera (students), holding a chalk, warm atmosphere` |
-| 4-11 | 5:08 | 8s | (Finale Cont) | **Wide**. Classroom window view. <br>`(wide shot) View from the classroom window showing the calm blue sea, peaceful and bright` |
-| 4-12 | 5:16 | 5s | (Build to End) | **Close**. Ayano's smile. <br>`(close up) @雪村綾乃_Moonlit smiling with deep gratitude, light overflowing` |
-| 4-13 | 5:21 | 9s | 終わりの先へ | **End**. Fade to white/Title. <br>`(cinematic) @雪村綾乃_Moonlit walking out of the school towards the light, fading into pure white background` |
+
+## 5. Scene 5: 未来の教室 (Twenty-four Eyes Reference) | 4:52 - 5:58
+**Theme**: Education, hope, carrying the past into the future.
+**Motifs**: Bicycle, Seaside Road, 12 Children (Desks), Reunion.
+
+| No | Start | Dur | Lyric / Audio Event | Shot Concept & Vidu Q2 Prompt |
+|:---|:---|:---|:---|:---|
+| 5-1 | 4:52 | 8s | ここから次の物語へ | **Scene 5 Est**. Bicycle on Seaside Road. <br>`(wide shot) @雪村綾乃_Moonlit riding a retro bicycle along a dirt road by the glittering sea, heading towards a wooden schoolhouse` |
+| 5-2 | 5:00 | 6s | 並ぶ机の小さな宇宙 | **Scene 5 Verse**. 12 Desks. <br>`(medium shot) 12 small wooden school desks lined up neatly in the sunlit classroom, nostalgic atmosphere` |
+| 5-3 | 5:06 | 6s | まなざしが未来をつくる | **Close**. The Teacher. <br>`(close up) @雪村綾乃_Moonlit standing at the podium, looking with deep affection at the 12 seats, holding an attendance book` |
+| 5-4 | 5:12 | 6s | 昨日の痛みを抱えたまま | **Medium**. Window/Past. <br>`(medium shot) @雪村綾乃_Moonlit looking out the wooden window at the sea, remembering the parted students/war (subtle), shadows on face` |
+| 5-5 | 5:18 | 6s | 今日の希望を教えにゆく | **Medium**. Smile to Class. <br>`(medium shot) @雪村綾乃_Moonlit turning back to the class, smiling radiantly, chalk in hand, ready to teach hope` |
+| 5-6 | 5:24 | 6s | 泣いた数だけ　強くなるなら | **Close**. Emotional singing. <br>`(close up) @雪村綾乃_Moonlit singing with deep emotion, eyes glistening, light overwhelming the frame` |
+| 5-7 | 5:30 | 6s | 優しさだけは　置いていこう | **Detail**. Letting go/Paper Airplane. <br>`(macro) Hands of @雪村綾乃_Moonlit releasing a white paper airplane out the window, watching it fly over the sea` |
+| 5-8 | 5:36 | 6s | 別れの先で　また会うために | **Wide**. Reunion Vision. <br>`(wide shot) A vision of 12 children running along the beach waving, @雪村綾乃_Moonlit watching them from the ship or shore` |
+| 5-9 | 5:42 | 6s | 同じ海を　渡っていこう | **Close**. Final Resolve. <br>`(close up) @雪村綾乃_Moonlit nodding firmly, eyes reflecting the blue sea, determination and kindness` |
+| 5-10 | 5:48 | 10s | 終わりの先へ | **End**. Bicycle into Light. <br>`(cinematic) @雪村綾乃_Moonlit riding her bicycle away from the school down the white seaside road, fading into light` |
 
