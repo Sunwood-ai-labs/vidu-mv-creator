@@ -1,6 +1,6 @@
 # Vidu MV Creator (GA-Workspace)
 
-![Vidu MV Creator](https://via.placeholder.com/800x200?text=Vidu+MV+Creator+Workspace+v2)
+![Vidu MV Creator](assets/header.png)
 
 **Suno V5 (Audio)** と **Vidu Q2 (Video)** を統合し、物語からミュージックビデオを一気通貫で制作するための特化型ワークスペースです。
 ユーザーが入力したテーマや小説を元に、歌詞・楽曲を生成し、一貫性のあるキャラクターで映像化します。
