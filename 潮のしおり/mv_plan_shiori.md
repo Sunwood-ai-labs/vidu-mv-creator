@@ -35,25 +35,32 @@ A fair-skinned woman, Yukimura Ayano, with long, flowing silver hair and strikin
 
 ---
 
-## 1. Intro & Scene 1: 帰郷 (The Little Fishes) | 0:00 - 1:32
+## 0. Intro: 帰郷 (The Arrival) | 0:00 - 0:40
+**Theme**: Arrival, anticipation, island scenery.
+
+| No | Start | Dur | Lyric / Audio Event | Shot Concept & Vidu Q2 Prompt |
+|:---|:---|:---|:---|:---|
+| 0-1 | 0:00 | 8s | (Intro: Title Back) | **Wide**. Title/Sea. <br>`(cinematic) Sparkling blue ocean surface under clear sky, space for title text, peaceful waves` |
+| 0-2 | 0:08 | 8s | (Intro: The Ferry) | **Wide**. Approaching Island. <br>`(wide shot) A white ferry boat approaching a lush green island with a lighthouse, leaving a white wake on blue sea` |
+| 0-3 | 0:16 | 8s | (Intro: Arrival) | **Medium**. Disembarking. <br>`(medium shot) @雪村綾乃_Moonlit stepping off the boat onto the wooden pier, holding a vintage leather suitcase, wind blowing` |
+| 0-4 | 0:24 | 8s | (Intro: The Town) | **Medium**. Walking in Town. <br>`(medium shot, tracking) @雪村綾乃_Moonlit walking through a nostalgic narrow street with old wooden houses, sunlight filtering through` |
+| 0-5 | 0:32 | 8s | (Intro: To the Beach) | **Wide**. Emerging to Sea. <br>`(wide shot) @雪村綾乃_Moonlit walking out from a tree tunnel onto the open white sandy beach, seeing the ocean view` |
+
+## 1. Scene 1: 渚にて (On the Beach) | 0:40 - 1:42
 **Theme**: Awakening, sea breeze, returning to roots.
 
 | No | Start | Dur | Lyric / Audio Event | Shot Concept & Vidu Q2 Prompt |
 |:---|:---|:---|:---|:---|
-| 1-1 | 0:00 | 8s | (Intro Start - Piano/Ocean) | **Est/Wide**. Terrace interaction. <br>`(cinematic, wide shot) @雪村綾乃_Moonlit standing on a white marble terrace overlooking the sparkling blue sea, wind blowing her silver hair and floral dress, calm ocean waves` |
-| 1-2 | 0:08 | 8s | (Intro Cont) | **Close**. Feeling the breeze. <br>`(close up) @雪村綾乃_Moonlit with closed eyes, feeling the sea breeze, silver hair flowing across face, soft lighting, detailed skin texture` |
-| 1-3 | 0:16 | 6s | (Intro Build) | **Detail**. Sparkling water/leaves. <br>`(macro) Hand of @雪村綾乃_Moonlit reaching towards sunlight filtering through green leaves, dust motes dancing, sparkling bokeh` |
-| 1-4 | 0:22 | 8s | (Intro -> Vocal In) | **Medium**. Walking on beach. <br>`(medium shot, low angle) @雪村綾乃_Moonlit walking slowly on a sandy beach, holding her high heels in one hand, barefoot on sand` |
-| 1-5 | 0:30 | 7s | 静凪（せなぎ）の煌めきが | **Close**. Looking at ocean sparkle. <br>`(close up) @雪村綾乃_Moonlit looking at the sea horizon, faint nostalgic smile, diamond earrings glinting` |
-| 1-6 | 0:37 | 6s | 指の間をすり抜けて | **Detail**. Sand/Light slipping through fingers. <br>`(close up) Sand slippping through fingers of @雪村綾乃_Moonlit against the sunlight, golden hour light, cinematic detail` |
-| 1-7 | 0:43 | 7s | 笑い声だけ置いてゆく | **Medium**. Looking back (memory). <br>`(medium shot) @雪村綾乃_Moonlit turning back to look at footprints in the sand, wistful expression, wind blowing hair` |
-| 1-8 | 0:50 | 6s | 帰る場所 照らしながら | **Wide**. Walking towards a lighthouse/house distance. <br>`(wide shot) @雪村綾乃_Moonlit walking towards a distant lighthouse on the coast, sunset colors beginning` |
-| 1-9 | 0:56 | 6s | 名前のない今日抱いて | **Close**. Hugging self/Embracing wind. <br>`(close up) @雪村綾乃_Moonlit hugging her own shoulders gently, eyes closed, peaceful expression` |
-| 1-10 | 1:02 | 6s | 海路（うみじ）においで思い出す | **Medium**. Gazing at the path of the moon on water. <br>`(medium shot) @雪村綾乃_Moonlit looking at the moon path reflecting on the ocean surface, magical atmosphere` |
-| 1-11 | 1:08 | 5s | 内緒の終わりに同じ文句 | **Close**. Lip sync/Whisper vibe. <br>`(extreme close up) @雪村綾乃_Moonlit lips moving slightly, mysterious smile, soft focus` |
-| 1-12 | 1:13 | 6s | 波の音がページをめくる | **Trans**. Waves crashing/Page turning visual. <br>`(cinematic) Gentle ocean waves washing over a book lying on the sand, pages turning in the wind` |
-| 1-13 | 1:19 | 8s | ここから次の物語へ | **Trans**. Fade to evening/interior. <br>`(wide shot) The beach scene cross-dissolving into a warm window light in the distance` |
-| *(Gap)* | 1:27 | 5s | (Instrumental Transition) | **Est**. House exterior at dusk. <br>`(wide shot) Traditional Japanese house silhouette against a twilight sky, warm light in window` |
+| 1-1 | 0:40 | 7s | 静凪（せなぎ）の煌めきが | **Close**. Breeze/Smile. <br>`(close up) @雪村綾乃_Moonlit standing on the beach, closing her eyes to feel the breeze, faint nostalgic smile` |
+| 1-2 | 0:47 | 6s | 指の間をすり抜けて | **Detail**. Sand/Light. <br>`(close up) Sand slippping through fingers of @雪村綾乃_Moonlit against the sunlight, golden hour light` |
+| 1-3 | 0:53 | 7s | 笑い声だけ置いてゆく | **Medium**. Looking back. <br>`(medium shot) @雪村綾乃_Moonlit turning back to look at footprints in the sand, wistful expression` |
+| 1-4 | 1:00 | 6s | 帰る場所 照らしながら | **Wide**. Lighthouse View. <br>`(wide shot) @雪村綾乃_Moonlit walking towards a distant lighthouse on the coast, afternoon light` |
+| 1-5 | 1:06 | 6s | 名前のない今日抱いて | **Close**. Hugging self. <br>`(close up) @雪村綾乃_Moonlit hugging her own shoulders gently, eyes closed, peaceful expression` |
+| 1-6 | 1:12 | 6s | 海路（うみじ）においで思い出す | **Medium**. Moon Path/Gaze. <br>`(medium shot) @雪村綾乃_Moonlit looking at the sun reflecting on the ocean surface like a path` |
+| 1-7 | 1:18 | 5s | 内緒の終わりに同じ文句 | **Close**. Lip sync. <br>`(extreme close up) @雪村綾乃_Moonlit lips moving slightly, mysterious smile, soft focus` |
+| 1-8 | 1:23 | 6s | 波の音がページをめくる | **Trans**. Waves/Book. <br>`(cinematic) Gentle ocean waves washing over a book lying on the sand, pages turning in the wind` |
+| 1-9 | 1:29 | 8s | ここから次の物語へ | **Trans**. Fade to evening. <br>`(wide shot) The beach scene cross-dissolving into a warm window light in the distance` |
+| *(Gap)* | 1:37 | 5s | (Instrumental Transition) | **Est**. House exterior at dusk. <br>`(wide shot) Traditional Japanese house silhouette against a twilight sky, warm light in window` |
 
 ## 2. Scene 2: 留守番 (Orusuban) | 1:32 - 2:32
 **Theme**: Interior warmth, solitude, waiting.
@@ -118,4 +125,14 @@ A fair-skinned woman, Yukimura Ayano, with long, flowing silver hair and strikin
 | 5-8 | 5:36 | 6s | 別れの先で　また会うために | **Wide**. Reunion Vision. <br>`(wide shot) A vision of 12 children running along the beach waving, @雪村綾乃_Moonlit watching them from the ship or shore` |
 | 5-9 | 5:42 | 6s | 同じ海を　渡っていこう | **Close**. Final Resolve. <br>`(close up) @雪村綾乃_Moonlit nodding firmly, eyes reflecting the blue sea, determination and kindness` |
 | 5-10 | 5:48 | 10s | 終わりの先へ | **End**. Bicycle into Light. <br>`(cinematic) @雪村綾乃_Moonlit riding her bicycle away from the school down the white seaside road, fading into light` |
+
+## 6. Bonus: Instrumental Encores | 30s Filler
+**Theme**: The Musician, memories played out in melody.
+
+| No | Start | Dur | Lyric / Audio Event | Shot Concept & Vidu Q2 Prompt |
+|:---|:---|:---|:---|:---|
+| 6-1 | - | 8s | (Instrumental) | **Piano**. Terrace Breeze. <br>`(medium shot) @雪村綾乃_Moonlit playing a white grand piano on the outdoor terrace overlooking the ocean, silver hair flowing, elegant mood` |
+| 6-2 | - | 8s | (Instrumental) | **Violin**. Windy Hill. <br>`(medium shot) @雪村綾乃_Moonlit playing a violin Standing on a grassy hill with the lighthouse in background, eyes closed, emotional performance` |
+| 6-3 | - | 8s | (Instrumental) | **Acoustic Guitar**. Sunset Beach. <br>`(medium shot) @雪村綾乃_Moonlit sitting on driftwood on the beach at sunset, strumming an acoustic guitar, relaxed smile` |
+| 6-4 | - | 8s | (Instrumental) | **Reed Organ**. Classroom. <br>`(medium shot) @雪村綾乃_Moonlit playing an old wooden reed organ (pump organ) in the classroom, warm nostalgic lighting, looking at music sheet` |
 
