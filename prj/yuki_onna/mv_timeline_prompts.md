@@ -17,9 +17,9 @@
 
 | No | Start | Dur | Lyric / Audio Event | Base ID | Shot Concept & Vidu Q2 Prompt |
 |:---|:---|:---|:---|:---|:---|
-| **01** | 0:00 | 8s | (Intro: Koto Start) | *NEW* | **Inst / Cyan**. Koto focus. <br>`@AyanoYukimura_FrozenCyan が @幽雅殿 の奥座敷で氷の琴(Koto)を奏でている。指先のアップから顔への引き。弦から冷気と光の粒子が舞い上がる幻想的で静謐な8秒間のワンショット。ハイクオリティ実写。` |
-| **02** | 0:08 | 8s | (Intro: Buildup) | *NEW* | **Inst / Cyan**. Atmosphere. <br>`@AyanoYukimura_FrozenCyan が @幽雅殿 の奥座敷で氷の琴(Koto)を演奏している姿を横から捉えたスローなトラッキングショット。冷気が周囲を凍らせていく。蒼いホログラフィックな着物の質感を強調。8秒間のワンカット。` |
-| **03** | 0:16 | 6s | (Intro: Stand up) | *CYAN_V1* | **Inst / Cyan**. To Runway. <br>`@AyanoYukimura_FrozenCyan が立ち上がり、@幽雅殿 のランウェイの入り口へ向かう後ろ姿。演奏を終えた静寂。ゆっくりと歩調を整える6秒間の滑らかなハイクオリティ実写ショット。` |
+| **01** | 0:00 | 8s | (Intro: Koto Start) | *NEW* | **Inst / Cyan**. Koto focus. <br>`@AyanoYukimura_FrozenCyan が @幽雅殿 のステージ中央で氷の琴(Koto)を奏でている。指先のアップから顔への引き。弦から冷気と光の粒子が舞い上がる幻想的で静謐な8秒間のワンショット。ハイクオリティ実写。` |
+| **02** | 0:08 | 8s | (Intro: Buildup) | *NEW* | **Inst / Cyan**. Atmosphere. <br>`@AyanoYukimura_FrozenCyan が @幽雅殿 のステージ中央で演奏を続けるスローなトラッキングショット。冷気が周囲を凍らせていく。蒼いホログラフィックな着物の質感を強調。8秒間のワンカット。` |
+| **03** | 0:16 | 6s | (Intro: Transition) | *CYAN_V1* | **Inst / Cyan**. Performance End. <br>`@AyanoYukimura_FrozenCyan が @幽雅殿 で琴の演奏を静かに終える瞬間の余韻。指先が止まり、顔を上げてランウェイの先を見据える6秒間のシネマティックなショット。` |
 
 ## 1. Verse 1 & Pre-Chorus: 蒼き冷徹 (Frozen Cyan) | 0:22 - 0:48
 **Theme**: Cold beauty, Untouchable nature.
@@ -36,8 +36,8 @@
 
 | No | Start | Dur | Lyric / Audio Event | Base ID | Shot Concept & Vidu Q2 Prompt |
 |:---|:---|:---|:---|:---|:---|
-| **08** | 0:48 | 5.5s | 舞い散る雪はダイヤモンド<br>(Maichiru yuki wa diamond) | *PURPLE_V1* | **Walk / Purple**. Biwa Entry. <br>`@AyanoYukimura_TwilightEmpress が豪華な琵琶(Biwa)を手に持ち、@幽雅殿 のランウェイ中央を堂々と歩く。重厚な紫のドレスが豪華に揺れる5.5秒間の壮麗なワンカット。` |
-| **09** | 0:54 | 5.5s | 孤独を纏う Silver ghost<br>Frozen heart, beating slow | *PURPLE_V1* | **Walk / Purple**. Elegance. <br>`@AyanoYukimura_TwilightEmpress が琵琶(Biwa)を持って歩くミディアムショット。紫のベルベットと金の刺繍がライトを反射し、優雅に揺れる。周囲に紫の霧が立ち込める5.5秒間の継続ウォーク。` |
+| **08** | 0:48 | 5.5s | 舞い散る雪はダイヤモンド<br>(Maichiru yuki wa diamond) | *PURPLE_V1* | **Walk / Purple**. Empress Walk. <br>`@AyanoYukimura_TwilightEmpress が @幽雅殿 のランウェイ中央を堂々と歩く。重厚な紫のドレスの裾が広がり、金の刺繍が豪華に揺れる5.5秒間の壮麗なワンカット。` |
+| **09** | 0:54 | 5.5s | 孤独を纏う Silver ghost<br>Frozen heart, beating slow | *PURPLE_V1* | **Walk / Purple**. Elegance. <br>`@AyanoYukimura_TwilightEmpress のミディアムショット。紫のベルベットとジュエリーがスポットライトを反射し、優雅に揺れる。周囲に紫の霧が立ち込める5.5秒間の継続ウォーク。` |
 | **10** | 1:00 | 6s | この世界さえ 凍らせて | *PURPLE_V2* | **FX / Purple**. Freeze World. <br>`@AyanoYukimura_TwilightEmpress がランウェイ正面で足を止める。彼女の足元から @幽雅殿 全体が波状に紫の氷で覆われていく幻想的な6秒間の圧倒的ワンショット。` |
 
 ## 3. Interlude: 紅き激情 (Blood Ice) | 1:06 - 1:26
@@ -56,15 +56,15 @@
 | No | Start | Dur | Lyric / Audio Event | Base ID | Shot Concept & Vidu Q2 Prompt |
 |:---|:---|:---|:---|:---|:---|
 | **15** | 1:26 | 7.5s | Catwalk in the blizzard<br>凍結蒼 / 極夜の紫 / 氷紅 / 霜銀 | *NEW* | **FX / Multi**. Morph Walk. <br>`吹雪の中、@AyanoYukimura_FrozenCyan から @AyanoYukimura_TwilightEmpress へ残像のように姿が入れ替わりながら進む7.5秒間の幻想的なキャットウォーク。` |
-| **16** | 1:34 | 4.5s | 溶けることない 永遠の冬 | *SILVER_V1* | **Walk / Silver**. Appearance. <br>`厚い吹雪の中から @AyanoYukimura_PlatinumBride が静かに現れる。尺八(Shakuhachi)を手に、白銀の世界と化した @幽雅殿 を神聖に歩む4.5秒間のワンショット。` |
+| **16** | 1:34 | 4.5s | 溶けることない 永遠の冬 | *SILVER_V1* | **Walk / Silver**. Appearance. <br>`厚い吹雪の中から @AyanoYukimura_PlatinumBride が静かに現れる。白銀の世界と化した @幽雅殿 を神聖に歩む4.5秒間のワンショット。` |
 
 ## 5. Chorus 2 & Outro: 白銀の永遠 (Platinum Bride) | 1:39 - 2:12
 **Theme**: Climax, Eternity, Disappearance.
 
 | No | Start | Dur | Lyric / Audio Event | Base ID | Shot Concept & Vidu Q2 Prompt |
 |:---|:---|:---|:---|:---|:---|
-| **17** | 1:39 | 5s | 舞い散る雪はダイヤモンド<br>(Maichiru yuki wa diamond) | *SILVER_V1* | **Walk / Silver**. Climax Walk. <br>`@AyanoYukimura_PlatinumBride が氷の冠を被り、プラチナのドレスで @幽雅殿 を歩くフルショット。尺八(Shakuhachi)を手に持っている。周囲の空気が凍りついて静止する5秒間の高貴な継続ショット。` |
-| **18** | 1:45 | 5s | 孤独を纏う Silver ghost<br>Frozen heart, beating slow | *SILVER_V2* | **Walk / Silver**. Ethereal Back. <br>`@AyanoYukimura_PlatinumBride が尺八(Shakuhachi)を持って歩く後ろ姿の周回ショット。浮遊する半透明の袖と長い裾が幽玄に舞う。粉雪がダイヤモンドのように光る5秒間の幻想的ショット。` |
+| **17** | 1:39 | 5s | 舞い散る雪はダイヤモンド<br>(Maichiru yuki wa diamond) | *SILVER_V1* | **Walk / Silver**. Climax Walk. <br>`@AyanoYukimura_PlatinumBride のフルショット。頭上の氷の冠とプラチナのドレスが極限まで輝き、周囲の空気が凍りついて静止する5秒間の高貴な継続ショット。` |
+| **18** | 1:45 | 5s | 孤独を纏う Silver ghost<br>Frozen heart, beating slow | *SILVER_V2* | **Walk / Silver**. Ethereal Back. <br>`@AyanoYukimura_PlatinumBride の背後からの周回ショット。浮遊する半透明の袖と長い裾が幽玄に舞う。粉雪がダイヤモンドのように光る5秒間の幻想的ショット。` |
 | **19** | 1:51 | 5.5s | この世界さえ 凍らせて | *SILVER_V2* | **FX / Silver**. Shockwave. <br>`@AyanoYukimura_PlatinumBride が正面を向き、彼女を中心に純白の衝撃波が @幽雅殿 を突き抜ける。周囲が瞬時に一新される5.5秒間のクライマックス・ワンカット。` |
 | **20** | 1:57 | 7s | Forever cold.<br>(Whisper: Yuki-onna...) | *SILVER_V1* | **Exit / Silver**. Leaving. <br>`@AyanoYukimura_PlatinumBride がランウェイの出口へ向かい、遠ざかる。背中を見せて歩き去り、彼女の姿が次第に白く霞んでいく7秒間のシネマティックなロングショット。` |
-| **21** | 2:04 | 8s | (Outro: Final Breath) | *NEW* | **Inst / Silver**. Final Shakuhachi. <br>`最後に肩越しに振り返る @AyanoYukimura_PlatinumBride。氷の尺八(Shakuhachi)を吹き、音色と共に激しい雪原の中に溶けていく8秒間の静謐なラストショット。` |
+| **21** | 2:04 | 8s | (Outro: Final Breath) | *NEW* | **Inst / Silver**. Final Shakuhachi. <br>`最後に肩越しに振り返る @AyanoYukimura_PlatinumBride。取り出した氷の尺八(Shakuhachi)を吹き、音色と共に激しい雪原の中に溶けていく8秒間の静謐なラストショット。` |
