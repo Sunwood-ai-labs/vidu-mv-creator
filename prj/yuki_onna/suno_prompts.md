@@ -56,9 +56,11 @@ DON'T TOUCH.
 
 [Verse 2]
 Catwalk in the blizzard
-視線は冷たく (Shisen wa tsumetaku)
-氷のドレス 翻し (Koori no doresu hirugaeshi)
-Elegance is pain, don't you know?
+凍結蒼 (Frozen cyan glow)
+極夜の紫 (Twilight purple flow)
+氷紅に染まる (Blood ice red)
+霜銀が舞う (Platinum silver thread)
+Four faces, one soul
 溶けることない 永遠の冬
 
 [Chorus]
